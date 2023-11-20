@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🧢 Graduate student, ISFP-T
-  
 - 🔬 I’m currently working on edge computing & embedded system.
-  
 - 📝 [git_tutorial_zh-cn](https://github.com/rshouX/git_tutorial_zh-cn): An efficient way to learn git [中文]
 
 <image src="https://github-readme-stats.vercel.app/api?username=rshouX&show_icons=true&include_all_commits=true" />
